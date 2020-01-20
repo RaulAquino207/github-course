@@ -16,7 +16,9 @@ Fazendo o push para o github.
 
 **Mostrar o nome/email configurado anteriormente**
 `git config user.name`
+
 `git config user.email`
+
 `git config --list`
 
 
